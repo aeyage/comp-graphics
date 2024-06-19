@@ -1,1 +1,1 @@
-# CPC354-Computer-Graphics
+## CPC354 Computer Graphics
